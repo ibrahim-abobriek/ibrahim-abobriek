@@ -1,120 +1,73 @@
-# Hi there, I'm **Ibrahim Abobrek** 👋
-
-## 🚀 Artificial Intelligence Engineer | Data Analyst
-
-Passionate about building intelligent systems, extracting insights from data, and creating impactful AI solutions.
+<h1 align="center">Hi 👋, I'm Ibrahim Hassan Abobrek</h1>
+<h3 align="center">AI Engineer • Data Analyst</h3>
 
 ---
 
-## 📌 About Me
-
-* 🎓 **AI Engineer & Data Analyst** with strong expertise in machine learning, deep learning, and data analytics.
-* 🔭 Currently working on various AI projects including NLP, Computer Vision, and Predictive Analytics.
-* 🌱 Always learning more about **MLOps, LLMs, and advanced machine learning techniques**.
-* 🤝 Open to collaborating on **AI, data science, and open-source projects**.
-* ⚡ Fun fact: I love exploring new technologies and analyzing real-world datasets.
-
----
-
-## 🔗 Connect With Me
-
-* **LinkedIn:** (Add your link here)
-* **Kaggle:** (Add your link here)
-* **Portfolio Website:** (Optional)
-* **Email:** (Your email here)
+### 🔥 About Me  
+- 🎓 AI Engineer & Data Analyst  
+- 📊 Passionate about Machine Learning, Deep Learning, and Data Analytics  
+- 🤝 Open to collaborating on AI, Data Science, and Automation Projects  
+- 🚀 Always learning and building impactful solutions  
+- 📫 Reach me at: **your-email@example.com**  
 
 ---
 
-## 🧠 Skills & Technologies
+### 🛠️ Skills & Technologies  
 
-### **Programming Languages**
+#### 📌 Programming Languages  
+- **Python**, **C++**, **Java**, **C#**, **R**, **SQL**, **JavaScript**
 
-* Python
-* SQL
-* R (Basics)
+#### 🤖 Artificial Intelligence / Machine Learning  
+- Supervised & Unsupervised Learning  
+- Deep Learning (ANN – CNN – RNN – LSTM)  
+- Computer Vision  
+- NLP  
+- Reinforcement Learning  
+- Model Optimization  
 
-### **Machine Learning & AI**
+#### 📊 Data Analysis & BI  
+- Data Cleaning & Preprocessing  
+- Statistical Analysis  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Business Intelligence Dashboards  
 
-* Machine Learning Algorithms
-* Deep Learning
-* Neural Networks
-* Computer Vision
-* Natural Language Processing (NLP)
-* Reinforcement Learning (Basics)
+#### 🗄️ Databases  
+- MySQL, PostgreSQL, SQL Server  
+- MongoDB, Firebase  
 
-### **Frameworks & Libraries**
+#### 📈 Tools & Libraries  
+- **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Scikit-Learn**  
+- **TensorFlow**, **Keras**, **PyTorch**  
+- **OpenCV**, **NLTK**, **SpaCy**  
 
-* TensorFlow
-* Keras
-* PyTorch
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* OpenCV
+#### 🌐 Web Technologies  
+- HTML, CSS, JavaScript  
+- Flask, Django  
 
-### **Data Engineering & Databases**
+#### ☁️ Cloud & DevOps  
+- Git & GitHub  
+- Docker  
+- AWS (Basics), Google Cloud  
 
-* MySQL
-* MongoDB
-* PostgreSQL
-* Data Preprocessing
-* ETL Pipelines
-
-### **Data Visualization**
-
-* Power BI
-* Tableau
-* Matplotlib / Seaborn
-
-### **Tools & Platforms**
-
-* Jupyter Notebook
-* Google Colab
-* Git & GitHub
-* VS Code
-* Docker (Basics)
-* Linux Command Line
-
-### **Cloud Services**
-
-* AWS (EC2, S3, SageMaker - Basics)
-* Google Cloud (BigQuery, AI Platform - Basics)
+#### 📊 BI Tools  
+- Power BI  
+- Tableau  
 
 ---
 
-## 📂 Featured Projects
+### 📌 Featured Projects  
+*(Replace with your real projects—just tell me names & descriptions)*
 
-(Add your project links later — placeholders added)
-
-* 🧠 **AI Model for Image Classification** – Deep learning CNN model.
-* 🗣️ **NLP Text Classification System** – Sentiment analysis & text prediction.
-* 📊 **Data Analysis Dashboard** – Using Power BI/Tableau.
-* 🔍 **Object Detection Project** – Using YOLO/OpenCV.
-* 📈 **Predictive Analytics Model** – Forecasting with machine learning.
+- 🤖 **AI Model for Predictive Analytics** – ML model for forecasting business KPIs  
+- 📸 **Computer Vision Detection System** – Object detection using CNN  
+- 📊 **Sales Dashboard** – Power BI dashboard for business insights  
+- 🧠 **NLP Text Classifier** – Deep learning model for text classification  
 
 ---
 
-## 📊 GitHub Stats
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abobrek\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Abobrek\&layout=compact\&theme=radical)
-
----
-
-## 🏆 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahim-Abobrek\&theme=radical)
-
----
-
-## 📫 Feel Free To Reach Out
-
-If you want to collaborate or discuss an AI or data project, feel free to contact me!
-
----
-
-### ✨ Thank you for visiting my profile!
+### 📬 Connect With Me  
+- LinkedIn: *[your-profile](https://www.linkedin.com/in/ibrahem-hassan-a2b3b32b3?utm_source=share_via&utm_content=profile&utm_medium=member_android)*  
+- GitHub: *your-profile*  
+- Email: *ibrahim.hassan.abobriek@gmail.com* 
 
